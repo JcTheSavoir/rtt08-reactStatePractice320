@@ -1,7 +1,7 @@
 import Score from "./Score"
 
 const Learner = ({student}) => {
-    console.log(student)
+    // console.log(student)
   return (
     <div className="studentInfoContainer">
         <div className="studentNameParagraph">
